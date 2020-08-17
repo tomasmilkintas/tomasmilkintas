@@ -23,12 +23,15 @@ so you don't have to look far for it!
     - Stripe
 
 ### 🌱 I’m currently learning:
-- How to utilize AWS with the Serverless Framework
+- How to utilize AWS with the Serverless Framework properly. Having completed the tutorial
+project setting up both backend and frontend, it is time to get my hands dirty.
+- Improving the build time for my projects
+- Improving the way I approach the different stages of a given project
 
 ### 📫 How to reach me:
-[LinkedIn].(https://www.linkedin.com/in/tomas-milkintas/)
-email: tomas.milkintas1@gmail.com
-telegram: @tomasmilkintas1
+- LinkedIn - https://www.linkedin.com/in/tomas-milkintas/
+- Email - tomas.milkintas1@gmail.com
+- Telegram - @tomasmilkintas1
 
 ### ⚡ Fun fact about me: 
 I take cold showers daily, no matter the weather, no matter the mood! 
