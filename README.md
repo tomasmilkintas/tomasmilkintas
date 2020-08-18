@@ -36,6 +36,12 @@ project setting up both backend and frontend, it is time to get my hands dirty.
 ### ⚡ Fun fact about me: 
 I take cold showers daily, no matter the weather, no matter the mood! 
 
+### Projects:
+
+- Todo-List App - https://magical-list.netlify.app/
+- Serverless App (AWS with Backend / Frontend + Stripe) - https://serverless-stack-app.netlify.app/
+- Picture Render MasterPiece - https://picture-masterpiece.netlify.app/
+
 
 
 <!--
