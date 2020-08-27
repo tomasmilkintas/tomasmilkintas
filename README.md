@@ -1,15 +1,10 @@
 ### Hi there, welcome to my humble abode 👋
 
 ### 🔭 I’m currently working on:
-- Making a portfolio site to store all the scattered pieces in one place,
-so you don't have to look far for it!
-
-- Improving my current skillset, which consists of:
-    - HTML
-    - CSS
-    - ES6 JavaScript
-    - ReactJS
-    - React Hookes
+Whilst my primary focus remains ReactJS, here's a complete list of technologies I have
+been using thus far:
+    - HTML / CSS / ES6 JavaScript
+    - ReactJS / React Hookes
     - Redux
     - Webpack
     - MongoDB
