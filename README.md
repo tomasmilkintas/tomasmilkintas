@@ -1,10 +1,13 @@
 ### Hi there, welcome to my humble abode 👋
 
+<a href="tommy.netlify.app">
+<img src="https://camo.githubusercontent.com/21520589328e16fbc85a3796bbfaec7b515141ef/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f39362f3030303030302f706f7274666f6c696f2e706e67" style="max-width:100%;"></a>
+
+
 ### 🔭 I’m currently working on:
-Whilst my primary focus remains ReactJS, here's a complete list of technologies I have
-been using thus far:
+Whilst my primary focus remains ReactJS, here's a complete list of technologies I have been using thus far:
     - HTML / CSS / ES6 JavaScript
-    - ReactJS / React Hookes
+    - ReactJS / React Hooks
     - Redux
     - Webpack
     - MongoDB
@@ -17,9 +20,7 @@ been using thus far:
     - Figma
     - Stripe
 
-### 🌱 I’m currently learning:
-- How to utilize AWS with the Serverless Framework properly. Having completed the tutorial
-project setting up both backend and frontend, it is time to get my hands dirty.
+### 🌱 I’m currently:
 - Improving the build time for my projects
 - Improving the way I approach the different stages of a given project
 
@@ -36,6 +37,10 @@ I take cold showers daily, no matter the weather, no matter the mood!
 - Todo-List App - https://magical-list.netlify.app/
 - Serverless App (AWS with Backend / Frontend + Stripe) - https://serverless-stack-app.netlify.app/
 - Picture Render MasterPiece - https://picture-masterpiece.netlify.app/
+- Spotify Clone - https://basic-spotify-clone.netlify.app/
+- Amazon Clone - https://basic-amazon-clone.netlify.app/
+- Twitter Clone - https://twitter-clone-d2914.web.app/
+- Netflix Clone - https://basic-netflix-clone.netlify.app/
 
 
 
