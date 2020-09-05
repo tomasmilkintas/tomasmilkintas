@@ -1,7 +1,7 @@
 ### Hi there, welcome to my humble abode 👋
 
-<a href="tommy.netlify.app">
-<img src="https://camo.githubusercontent.com/21520589328e16fbc85a3796bbfaec7b515141ef/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f39362f3030303030302f706f7274666f6c696f2e706e67" style="max-width:100%;"></a>
+
+<img src="https://camo.githubusercontent.com/21520589328e16fbc85a3796bbfaec7b515141ef/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f39362f3030303030302f706f7274666f6c696f2e706e67" href="tommi.netlify.app" style="max-width:100%;"></a>
 
 
 ### 🔭 I’m currently working on:
