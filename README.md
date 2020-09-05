@@ -1,7 +1,7 @@
 ### Hi there, welcome to my humble abode 👋
 
 
-<a href="https://tommi.netlify.app/" target="_blank"></a>
+<a href="https://tommi.netlify.app/" target="_blank"><img src="https://img.icons8.com/fluent/96/000000/portfolio.png"/></a>
 
 
 ### 🔭 I’m currently working on:
