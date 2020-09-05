@@ -1,24 +1,24 @@
 ### Hi there, welcome to my humble abode 👋
 
 
-<img src="https://camo.githubusercontent.com/21520589328e16fbc85a3796bbfaec7b515141ef/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f39362f3030303030302f706f7274666f6c696f2e706e67" href="tommi.netlify.app" style="max-width:100%;"></a>
+<a href="https://tommi.netlify.app/" target="_blank"></a>
 
 
 ### 🔭 I’m currently working on:
 Whilst my primary focus remains ReactJS, here's a complete list of technologies I have been using thus far:
-    - HTML / CSS / ES6 JavaScript
-    - ReactJS / React Hooks
-    - Redux
-    - Webpack
-    - MongoDB
-    - ExpressJs
-    - NodeJs
-    - Git
-    - AWS (IAM, Cognito, S3, Route53, DynamoDB, CloudWatch, API Gateway)
-    - Firebase
-    - Storybook
-    - Figma
-    - Stripe
+- HTML / CSS / ES6 JavaScript
+- ReactJS / React Hooks
+- Redux
+- Webpack
+- MongoDB
+- ExpressJs
+- NodeJs
+- Git
+- AWS (IAM, Cognito, S3, Route53, DynamoDB, CloudWatch, API Gateway)
+- Firebase
+- Storybook
+- Figma
+- Stripe
 
 ### 🌱 I’m currently:
 - Improving the build time for my projects
