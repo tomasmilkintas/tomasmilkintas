@@ -21,8 +21,9 @@ Whilst my primary focus remains ReactJS, here's a complete list of technologies 
 - Stripe
 
 ### 🌱 I’m currently:
-- Improving the build time for my projects
-- Improving the way I approach the different stages of a given project
+- Searching for a Front End Developer Position
+- Contemplating life
+- Working on improving my technical communication
 
 ### 📫 How to reach me:
 - LinkedIn - https://www.linkedin.com/in/tomas-milkintas/
