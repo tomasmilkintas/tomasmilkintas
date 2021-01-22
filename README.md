@@ -21,7 +21,6 @@ Whilst my primary focus remains ReactJS, here's a complete list of technologies 
 - Stripe
 
 ### 🌱 I’m currently:
-- Searching for a Front End Developer Position
 - Contemplating life
 - Working on improving my technical communication
 
